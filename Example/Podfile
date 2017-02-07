@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CoreDataManager_Example' do
+  pod 'CoreDataManager', :path => '../'
+
+  target 'CoreDataManager_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

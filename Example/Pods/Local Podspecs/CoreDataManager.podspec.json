@@ -1,0 +1,22 @@
+{
+  "name": "CoreDataManager",
+  "version": "0.1.0",
+  "summary": "A short description of CoreDataManager.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Sina Ranjbar/CoreDataManager",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Sina Ranjbar": "sinaranjbar@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Sina Ranjbar/CoreDataManager.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CoreDataManager/Classes/**/*"
+}
